@@ -1,0 +1,5 @@
+hello:你好
+how are you:你好吗
+machine learning:机器学习
+artificial intelligence:人工智能
+deep learning:深度学习
